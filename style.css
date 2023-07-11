@@ -1,0 +1,87 @@
+
+/* *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Syne;
+}
+.your{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #ffffff;
+    width: 100%;
+    gap: 268px;
+    padding: 40px 102px;
+}
+.trans{
+    display: flex;
+    font-family: Syne;
+    font-size: 44px;
+    font-style: normal;
+    
+}
+.trans div:nth-child(3){
+    color: #1341EC;
+
+}
+.home{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 100px;
+    color: #1C1C1C;
+    font-family: Rubik;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 21px;
+
+}
+.home a{
+    text-decoration: none;
+    color: #1C1C1C;
+}
+.contact button{
+    display: flex;
+    padding: 12px 28px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 6px;
+    background: #1341EC;
+    border-style: hidden;
+    color: #ffffff;
+    font-size: 23px;
+}
+.find{
+  
+    background-image:  url(./images/Group\ 48096122.png) url(./images/image\ 2\ \(1\).png);
+    width: 1299px;
+    height: 611px;
+} */
+
+
+
+
+
+
+/* choriyeva sectionga style */
+.testimionals .testi p{
+    text-align: center;
+    color: var(--primary, #1341EC);
+    font-family: Rubik;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 36px;
+}
+.testimionals h2{
+    color: var(--grey-1, #000);
+    font-family: Rubik;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 81px;
+    text-align: center;
+}
