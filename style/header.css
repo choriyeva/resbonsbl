@@ -5,10 +5,10 @@
   font-family: "Rubik";
 }
 .container {
-  /* max-width: 1299px;
+  max-width: 1299px;
   margin: 0 auto;
   display: flex;
-  flex-wrap: wrap; */
+  flex-wrap: wrap; 
 }
 a {
   all: unset;
@@ -124,30 +124,40 @@ nav {
 #int {
   width: 415px;
   display: flex;
+  padding: 0 0 0 30px;
   gap: 54px;
+  background-color: #fff;
   border-radius: 8.318px;
-  background: #fff;
   box-shadow: 18.300535202026367px 19.13237762451172px 33.27370071411133px 0px
     rgba(0, 0, 0, 0.07);
 }
 #int > input {
-  color: #c0c0c0;
-  font-family: "Poppins";
-  font-size: 13.309px;
-  font-weight: 500;
-  border: none;
+  margin: 18px 0 18px 0;
+  width: 255px;
+  color: #C0C0C0;
+font-family: 'Poppins';
+font-size: 13.309px;
+font-weight: 400;
+border: none;
+  
 }
 #int > .button {
   width: 78px;
-  padding: 18px 26px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fafafa;
   border-radius: 0px 8.318px 8.318px 0px;
-  background: var(--primary, #1341ec);
-  color: #fff;
-  font-family: "Poppins";
+  background: var(--primary, #1341EC);
+  font-family: 'Poppins';
   font-size: 13.309px;
-  font-style: normal;
   font-weight: 400;
-  line-height: normal;
+}
+.hero-text-box{
+display: flex;
+align-items: center;
+justify-content: center;
+gap: 68px;
 }
 
 @media screen and (max-width: 360px) {
