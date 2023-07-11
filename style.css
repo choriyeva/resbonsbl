@@ -1,4 +1,4 @@
-*{
+/* *{
     padding: 0;
     margin: 0;
     box-sizing: border-box;
@@ -18,7 +18,7 @@
     font-family: Syne;
     font-size: 44px;
     font-style: normal;
-    /* fo: capitalize; */
+    
 }
 .trans div:nth-child(3){
     color: #1341EC;
@@ -54,8 +54,33 @@
     font-size: 23px;
 }
 .find{
-    /* background: #1341 */
+  
     background-image:  url(./images/Group\ 48096122.png) url(./images/image\ 2\ \(1\).png);
     width: 1299px;
     height: 611px;
+} */
+
+
+
+
+
+
+/* choriyeva sectionga style */
+.testimionals .testi p{
+    text-align: center;
+    color: var(--primary, #1341EC);
+    font-family: Rubik;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 36px;
+}
+.testimionals h2{
+    color: var(--grey-1, #000);
+    font-family: Rubik;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 81px;
+    text-align: center;
 }
