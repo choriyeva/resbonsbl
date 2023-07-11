@@ -75,14 +75,14 @@ nav {
 /* hero */
 
 #hero {
-  background: url("img/image\ 2.png"),
-    #1261a6 0% 0% / 33.2975834608078px 33.2975834608078px repeat;
+  background: url("img/image\ 2.png"), #1261a6 0% 0% / 33.2975834608078px 33.2975834608078px repeat;
   padding-top: 71px;
   padding-bottom: 48px;
 }
 .hero {
   border-radius: 15.922px;
   border: 0.663px solid #10254d;
+  padding: 112px 29px ;
 }
 .hero-text {
   display: flex;
