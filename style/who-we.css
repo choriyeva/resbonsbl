@@ -169,7 +169,9 @@ line-height: 150%;
       }
       .who-we-reght{
         display: flex;
-        width: 359px;
+        width: 320px;
+        align-items: center;
+        justify-content: center;
         justify-items: center;
       }
       .circle-1 {
