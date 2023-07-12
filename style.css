@@ -147,3 +147,93 @@
   font-weight: 400;
   line-height: 36px;
 }
+.testimionals h2{
+    color: var(--grey-1, #000);
+    font-family: Rubik;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 81px;
+    text-align: center;
+}
+.our1{
+    margin: auto;
+}
+.testimionals .our{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    position: absolute;
+    width: 1051px;
+    /* height: 490.82147px; */
+    margin-left: 450px;
+    border-radius: 17px;
+    box-shadow: 0.8564284443855286px 2.5692856311798096px 4.282142162322998px 5.138571262359619px rgba(0, 0, 0, 0.25);
+
+
+    
+}
+.testimionals .lorem{
+    display: flex;
+    flex-shrink: 0;
+    width: 550px;
+    /* height: 161px; */
+    flex-direction: column;
+    color: #000;
+    font-family: Rubik;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+.testimionals span{
+    margin-left: 40px;
+    text-align: center;
+    color: rgb(237, 191, 8);
+    
+}
+.testimionals .shakl{
+    width: 310.027px;
+    height: 307.458px;
+    margin-top: 30px;
+    flex-shrink: 0;
+    border-radius: 100.202px;
+    border-right: 0.856px solid #000 ;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+    
+}
+.testimionals .marry h4{
+    color: #080D20;
+text-align: center;
+
+
+font-family: Rubik;
+font-size: 36px;
+font-style: normal;
+font-weight: 600;
+line-height: 54px;
+
+}
+.testimionals .marry p{
+    color: #000;
+    text-align: center;
+    font-family: Rubik;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 36px;
+}
+.testimionals .testimionals-img{
+    position: absolute;
+    transform: translate(500px,29px);
+}
+.testimionals .testimionals-img2{
+    position: absolute;
+    transform: translate(846px,133px);
+}
+.testimionals .testimionals-img3{
+    position: absolute;
+    transform: translate(1378px,335px);
+}
+
