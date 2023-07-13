@@ -80,6 +80,8 @@ nav {
   padding-bottom: 48px;
 }
 .hero {
+  margin: 0 auto;
+  width: 1299px;
   border-radius: 15.922px;
   border: 0.663px solid #10254d;
   padding: 112px 29px;
@@ -235,17 +237,18 @@ gap: 68px;
     box-shadow: 11.29843807220459px 11.812003135681152px 20.542613983154297px 0px rgba(0, 0, 0, 0.07);
       }
   #int>input{
-font-size: 8.217px;
+    margin: 0;
+    font-size: 8.217px;
   }
   #int>.button{
     border-radius:  0 5.136px 5.136px 0;
-    padding: 11px 16px;
+    padding: 9px 16px;
     font-size: 8.217px;
     width: 80px;
     }
     .img>img{
       width: 290.297px;
-height: 136.845px;
+      height: 136.845px;
     }
 
 
