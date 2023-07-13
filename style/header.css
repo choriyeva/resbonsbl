@@ -161,6 +161,9 @@ gap: 68px;
 }
 
 @media screen and (max-width: 360px) {
+  .container{
+    max-width: 320px;
+  }
   .brg {
     display: block;
     color: black;
@@ -178,6 +181,20 @@ gap: 68px;
   }
   .nav-bar li {
     width: 100%;
+  }
+  .hero {
+    border-radius: 15.922px;
+    border: 0.663px solid #10254d;
+    padding: 5px 5px ;
+  }
+  .hero-text-box{
+    flex-wrap: wrap;
+  }
+  .hero-text{
+    width: 100%;
+  }
+  .text-top > h1 {
+    font-size: 30px;
   }
   /* .brg>input:checked .nav-bar{
         height: 100vh;
