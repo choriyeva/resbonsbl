@@ -121,6 +121,8 @@
 .input > input {
   max-width: 300px;
   height: 40px;
+  border-bottom: 2px solid white;
+  background: #000;
   border: none;
 }
 .input {
@@ -166,6 +168,10 @@
     max-width: 170px;
     height: 40px;
     border: none;
+  }
+  #maftuna .lets {
+    display: flex;
+    flex-wrap: wrap;
   }
 }
 
